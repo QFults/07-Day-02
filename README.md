@@ -2,4 +2,3 @@
 
 ## Today's Agenda
 - Intro to Sequelize
-- Intro to User Auth
