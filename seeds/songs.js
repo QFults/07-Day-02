@@ -3,19 +3,23 @@ const { Song } = require('../models')
 const songs = [
   {
     title: 'Lavagirl',
-    artist: 'ILYTommy'
+    artist: 'ILYTommy',
+    uid: 1
   },
   {
     title: 'Gorgeous',
-    artist: 'Kanye West'
+    artist: 'Kanye West',
+    uid: 2
   },
   {
     title: 'Benz Truck',
-    artist: 'Lil Peep'
+    artist: 'Lil Peep',
+    uid: 1
   },
   {
     title: 'Istanbul Not Constantinople',
-    artist: 'They Might Be Giants'
+    artist: 'They Might Be Giants',
+    uid: 2
   }
 ]
 
